@@ -1,0 +1,2 @@
+
+**We have talked a little bit about binary number but only for integer. The more common case is decimal point number. In this section, we are going to discuss two ways of representing decimal point number: Fixed point number and Floating point number.**
